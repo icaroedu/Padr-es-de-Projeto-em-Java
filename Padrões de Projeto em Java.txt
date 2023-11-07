@@ -1,14 +1,16 @@
+√çCARO EDUARDO DA SILVA RAMOS
+MAT:202101297271
 
 AULA 9
 
-Atividade AutÙnoma Aura :
-Quest„o 1: Uma das fontes de informaÁ„o acerca do clima s„o as boias meteorolÛgicas de alto
-mar, que emitem sinais para alguns satÈlites, e estes enviam as informaÁıes para um receptor
+Atividade Aut√¥noma Aura :
+Quest√£o 1: Uma das fontes de informa√ß√£o acerca do clima s√£o as boias meteorol√≥gicas de alto
+mar, que emitem sinais para alguns sat√©lites, e estes enviam as informa√ß√µes para um receptor
 em terra, de forma codificada. De uma forma simples, temos uma cadeia de caracteres, onde
-as letras iniciais definem um evento, seguido de par‚metros que podem ser numÈricos ou
-literais, em quantidades e tamanhos diversos, obedecendo a padronizaÁ„o para cada tipo de
+as letras iniciais definem um evento, seguido de par√¢metros que podem ser num√©ricos ou
+literais, em quantidades e tamanhos diversos, obedecendo a padroniza√ß√£o para cada tipo de
 evento.
-Qual padr„o de desenvolvimento seria indicado para o decodificador do sistema?
+Qual padr√£o de desenvolvimento seria indicado para o decodificador do sistema?
 
 A) Template Method
 B) Abstract Factory
@@ -18,35 +20,35 @@ E) Chain of Responsibility
 
 RESPOSTA: D)
 
-Quest„o 2: Os frameworks se tornaram muito comuns na ·rea de desenvolvimento, onde no Java temos
-exemplos como Spring, Struts e Hibernate. Eles definem um arcabouÁo com todas as funcionalidades
-comuns para determinado domÌnio de problemas, mas permitem ao desenvolvedor especializar a
-implementaÁ„o original, para satisfazer aos requisitos apresentados pelo sistema. Na construÁ„o do
-framework, um padr„o de desenvolvimento muito utilizado È o Template Method.
-Qual È a afirmaÁ„o correta acerca do Template Method?
-A) O padr„o define um algoritmo dividido em v·rios passos, onde alguns desses passos s„o a implementaÁ„o
-da parte comum, enquanto outros s„o lacunas a serem preenchidas pelo desenvolvedor.
-B) Para que o padr„o possa ser adotado, o princÌpio da orientaÁ„o a objetos que deve ser utilizado È o da
-agregaÁ„o, segundo um relacionamento todo-parte.
-C) Permite apenas uma derivaÁ„o do processo original, j· que uma das condiÁıes impostas pelo padr„o È a
-existÍncia de apenas uma inst‚ncia da classe em todo o ambiente de execuÁ„o.
-D) Trabalha com uma sequÍncia de filtros, por onde uma dada requisiÁ„o dever· passar, efetuando
-modificaÁ„o especÌficas em cada filtro utilizado.
-E) Exige a utilizaÁ„o de comunicaÁ„o remota, a qual pode ser feita de uma forma transparente para o
+Quest√£o 2: Os frameworks se tornaram muito comuns na √°rea de desenvolvimento, onde no Java temos
+exemplos como Spring, Struts e Hibernate. Eles definem um arcabou√ßo com todas as funcionalidades
+comuns para determinado dom√≠nio de problemas, mas permitem ao desenvolvedor especializar a
+implementa√ß√£o original, para satisfazer aos requisitos apresentados pelo sistema. Na constru√ß√£o do
+framework, um padr√£o de desenvolvimento muito utilizado √© o Template Method.
+Qual √© a afirma√ß√£o correta acerca do Template Method?
+A) O padr√£o define um algoritmo dividido em v√°rios passos, onde alguns desses passos s√£o a implementa√ß√£o
+da parte comum, enquanto outros s√£o lacunas a serem preenchidas pelo desenvolvedor.
+B) Para que o padr√£o possa ser adotado, o princ√≠pio da orienta√ß√£o a objetos que deve ser utilizado √© o da
+agrega√ß√£o, segundo um relacionamento todo-parte.
+C) Permite apenas uma deriva√ß√£o do processo original, j√° que uma das condi√ß√µes impostas pelo padr√£o √© a
+exist√™ncia de apenas uma inst√¢ncia da classe em todo o ambiente de execu√ß√£o.
+D) Trabalha com uma sequ√™ncia de filtros, por onde uma dada requisi√ß√£o dever√° passar, efetuando
+modifica√ß√£o espec√≠ficas em cada filtro utilizado.
+E) Exige a utiliza√ß√£o de comunica√ß√£o remota, a qual pode ser feita de uma forma transparente para o
 desenvolvedor, com base em Stubs e Skeletons.
 
 RESPOSTA: A)
 
 AULA 10:
 
-Atividade AutÙnoma Aura :
-Quest„o 1: Uma abordagem comum para o acesso ao banco de dados, nos sistemas atuais, È a
-concentraÁ„o das operaÁıes com uso de SQL (Structured Query Language) em uma classe do
-tipo DAO (Data Access Object), que deve se comunicar com o restante do sistema atravÈs de
-entidades ou coleÁıes delas.
-Qual padr„o GRASP se mostra predominante nesse contexto?
+Atividade Aut√¥noma Aura :
+Quest√£o 1: Uma abordagem comum para o acesso ao banco de dados, nos sistemas atuais, √© a
+concentra√ß√£o das opera√ß√µes com uso de SQL (Structured Query Language) em uma classe do
+tipo DAO (Data Access Object), que deve se comunicar com o restante do sistema atrav√©s de
+entidades ou cole√ß√µes delas.
+Qual padr√£o GRASP se mostra predominante nesse contexto?
 A) Polimorfismo
-B) Especialista na InformaÁ„o
+B) Especialista na Informa√ß√£o
 C) Controlador
 D) Criador
 E) Acoplamento Fraco
@@ -54,74 +56,74 @@ E) Acoplamento Fraco
 RESPOSTA: B)
 
 
-Quest„o 2: Um cÛdigo bem escrito È sempre mais f·cil de manter, pois a sem‚ntica adequada facilita a
-compreens„o das entidades e dos processos que atuam sobre elas. Utilizar nomes compreensÌveis,
-manter os objetos focados em seus reais objetivos e definir um ambiente facilmente gerenci·vel, est„o
-entre os muitos elementos que podem ser utilizados para melhorar a sem‚ntica e facilitar o uso dos
+Quest√£o 2: Um c√≥digo bem escrito √© sempre mais f√°cil de manter, pois a sem√¢ntica adequada facilita a
+compreens√£o das entidades e dos processos que atuam sobre elas. Utilizar nomes compreens√≠veis,
+manter os objetos focados em seus reais objetivos e definir um ambiente facilmente gerenci√°vel, est√£o
+entre os muitos elementos que podem ser utilizados para melhorar a sem√¢ntica e facilitar o uso dos
 objetos.
-Qual padr„o do GRASP demonstra esse tipo de preocupaÁ„o?
+Qual padr√£o do GRASP demonstra esse tipo de preocupa√ß√£o?
 A) Acoplamento Baixo
-B) Especialista na InformaÁ„o
+B) Especialista na Informa√ß√£o
 C) Polimorfismo
-D) Coes„o Alta
+D) Coes√£o Alta
 E) Controlado
 
 RESPOSTA: D)
 
 AULA 11:
 
-Atividade AutÙnoma Aura :
-Quest„o 1: Um dos ferramentais mais interessantes da orientaÁ„o a objetos È a heranÁa, pois
-permite alto reuso estrutural, diminuindo de forma consider·vel o tempo utilizado no
+Atividade Aut√¥noma Aura :
+Quest√£o 1: Um dos ferramentais mais interessantes da orienta√ß√£o a objetos √© a heran√ßa, pois
+permite alto reuso estrutural, diminuindo de forma consider√°vel o tempo utilizado no
 desenvolvimento de um sistema. Apesar de oferecer uma grande vantagem em termos de reuso,
-a criaÁ„o de uma grande hierarquia de classes pode dificultar aÁıes de manutenÁ„o, pois
-qualquer modificaÁ„o repercute em todos os descendentes.
-Qual padr„o do GRASP estaria sendo violado nessa situaÁ„o?
-A) Coes„o Alta
-B) Especialista na InformaÁ„o
+a cria√ß√£o de uma grande hierarquia de classes pode dificultar a√ß√µes de manuten√ß√£o, pois
+qualquer modifica√ß√£o repercute em todos os descendentes.
+Qual padr√£o do GRASP estaria sendo violado nessa situa√ß√£o?
+A) Coes√£o Alta
+B) Especialista na Informa√ß√£o
 C) Controlador
 D) Criador
 E) Acoplamento Fraco
 
 RESPOSTA: D)
 
-Quest„o 2: Um cÛdigo bem escrito È sempre mais f·cil de manter, pois a sem‚ntica adequada facilita a
-compreens„o das entidades e dos processos que atuam sobre elas. Utilizar nomes compreensÌveis,
-manter os objetos focados em seus reais objetivos e definir um ambiente facilmente gerenci·vel, est„o
-entre os muitos elementos que podem ser utilizados para melhorar a sem‚ntica e facilitar o uso dos
+Quest√£o 2: Um c√≥digo bem escrito √© sempre mais f√°cil de manter, pois a sem√¢ntica adequada facilita a
+compreens√£o das entidades e dos processos que atuam sobre elas. Utilizar nomes compreens√≠veis,
+manter os objetos focados em seus reais objetivos e definir um ambiente facilmente gerenci√°vel, est√£o
+entre os muitos elementos que podem ser utilizados para melhorar a sem√¢ntica e facilitar o uso dos
 objetos.
-Qual padr„o do GRASP demonstra esse tipo de preocupaÁ„o?
+Qual padr√£o do GRASP demonstra esse tipo de preocupa√ß√£o?
 A) Acoplamento Baixo
-B) Especialista na InformaÁ„o
+B) Especialista na Informa√ß√£o
 C) Polimorfismo
-D) Coes„o Alta
+D) Coes√£o Alta
 E) Controlado
 
 RESPOSTA: D)
 
 AULA 12:
 
-Quest„o 1: A orientaÁ„o a objetos tem uma caracterÌstica adaptativa muito forte, baseada na
-alteraÁ„o funcional de mÈtodos herdados, sem modificaÁ„o de assinaturas, para que os
-descendentes possam ser utilizados em um novo contexto de forma autom·tica.
-Qual padr„o do GRASP se baseia nessa caracterÌstica?
+Quest√£o 1: A orienta√ß√£o a objetos tem uma caracter√≠stica adaptativa muito forte, baseada na
+altera√ß√£o funcional de m√©todos herdados, sem modifica√ß√£o de assinaturas, para que os
+descendentes possam ser utilizados em um novo contexto de forma autom√°tica.
+Qual padr√£o do GRASP se baseia nessa caracter√≠stica?
 A) Acoplamento Baixo
-B) Coes„o Alta
+B) Coes√£o Alta
 C) Polimorfismo
 D) Criador
-E) Especialista na InformaÁ„o
+E) Especialista na Informa√ß√£o
 
 RESPOSTA: C)
 
-Quest„o 2: Nem sempre È f·cil garantir acoplamento baixo e alta coes„o. Por exemplo, em um
-sistema para controle de vendas, terÌamos a definiÁ„o do Especialista na InformaÁ„o com base na
-classe Venda, j· que ela detÈm os dados necess·rios, mas isso poderia trazer uma dependÍncia
+Quest√£o 2: Nem sempre √© f√°cil garantir acoplamento baixo e alta coes√£o. Por exemplo, em um
+sistema para controle de vendas, ter√≠amos a defini√ß√£o do Especialista na Informa√ß√£o com base na
+classe Venda, j√° que ela det√©m os dados necess√°rios, mas isso poderia trazer uma depend√™ncia
 dos componentes JDBC.
-Como o padr„o InvenÁ„o Pura seria utilizado para resolver esse problema?
-A) Utilizando o polimorfismo e acrescentando a persistÍncia no descendente.
-B) Eliminando o uso de JDBC e adotando listas em memÛria.
-C) Movendo o uso do JDBC para objetos no padr„o Criador.
-D) Deixando os mÈtodos de persistÍncia privados.
-E) Definindo uma classe de persistÍncia genÈrica
+Como o padr√£o Inven√ß√£o Pura seria utilizado para resolver esse problema?
+A) Utilizando o polimorfismo e acrescentando a persist√™ncia no descendente.
+B) Eliminando o uso de JDBC e adotando listas em mem√≥ria.
+C) Movendo o uso do JDBC para objetos no padr√£o Criador.
+D) Deixando os m√©todos de persist√™ncia privados.
+E) Definindo uma classe de persist√™ncia gen√©rica
 
 RESPOSTA: C)
